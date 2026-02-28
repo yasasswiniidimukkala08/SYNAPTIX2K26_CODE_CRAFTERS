@@ -1,6 +1,6 @@
-# 🚨 RescueNet – AI-Powered Emergency Response System
+# 🚨 ResQNet – AI-Powered Emergency Response System
 
-RescueNet is a multi-sensor intelligent emergency detection and response system built using **Expo + React Native + Firebase**.
+ResQNet is a multi-sensor intelligent emergency detection and response system built using **Expo + React Native + Firebase**.
 
 It automatically detects accidents using motion + sound analysis and instantly alerts nearby responders with real-time location tracking.
 
