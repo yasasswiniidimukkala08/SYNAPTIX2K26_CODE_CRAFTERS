@@ -122,28 +122,6 @@ Sensor fusion reduces false positives and improves real-world reliability.
 
 ---
 
-## 📂 Project Structure
-
-```
-app/
-  sos/
-    index.tsx        → SOS logic + auto detection
-    radar.tsx        → Active emergency view
-
-hooks/
-  useFallDetection.ts
-  useSoundSpikeDetection.ts
-  useShakeDetection.ts
-
-context/
-  AppContext.tsx
-
-lib/
-  firebase.ts
-```
-
----
-
 ## 🚀 How To Run
 
 ```bash
